@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+.text-white a {
+    color: #ffffff;
+}
+
+img {
+    max-width: 100%;
+}
+.navbar{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.active{
+    background-color: #be1622;
+    color: #ffffff;
+}
+
+.img-category{
+    max-height: 125px;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+.logo {
+    height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-toggler {
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;    
+}
+
+/* .btn {
+    padding-left: 100px;
+    padding-right: 100px;
+} */
+
+@media screen and (max-width: 1092px) {
+    /* .btn {
+        padding-left: 50px;
+        padding-right: 50px;
+    } */
+
+.img-category{
+    max-height: 75px;
+}
+}
+
+@media screen and (max-width: 844px) {
+    .small-p {
+        padding-bottom: 50px;
+    }
+
+    .logo {
+        height: 75px;
+    }
+
+    .sm-p{
+        padding-top: 45px;
+    }
+
+    /* .btn {
+    padding-left: 100px;
+    padding-right: 100px;
+} */
+
+@media screen and (max-width: 1091px) {
+    .active {
+        background-color: transparent;
+    }
+}
+
+.img-category{
+    max-height: 125px;
+}
+}
+
+.toggle-button{
+    color: #ffffff;
+}
+
+.home-header {
+    min-height: calc(100vh - 304px);
+}
+
+h2, h3, h4, p {
+   color: #343a40; 
+}
+
+.min-h{
+    min-height: calc(100vh - 304px);
+}
+
+.btn-r{
+    background-color: #be1622;
+    color: #ffffff;
+}
+
+.check-r{
+    color: #be1622;
+}
+
+ul {
+  list-style-type: none;
+}
+a:hover{
+    text-decoration: none;
+}
+
+.icons-img{
+    height: 75px;
+}
