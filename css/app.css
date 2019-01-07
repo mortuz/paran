@@ -18,12 +18,12 @@ img {
 }
 
 .active{
-    background-color: #be1622;
+    background-color: #e51a32;
     color: #ffffff;
 }
 
 .img-category{
-    max-height: 125px;
+    max-height: 200px;
 }
 
 .footer {
@@ -71,7 +71,7 @@ img {
     } */
 
 .img-category{
-    max-height: 75px;
+    max-height: 150px;
 }
 }
 
@@ -100,7 +100,7 @@ img {
 }
 
 .img-category{
-    max-height: 125px;
+    max-height: 200px;
 }
 }
 
@@ -121,12 +121,12 @@ h2, h3, h4, p {
 }
 
 .btn-r{
-    background-color: #be1622;
+    background-color: #e51a32;
     color: #ffffff;
 }
 
 .check-r{
-    color: #be1622;
+    color: #e51a32;
 }
 
 ul {
@@ -151,4 +151,14 @@ a:hover{
 
 .text1{
     opacity: 1;
+}
+
+.bg-dark2 {
+    background-color: #1d2c4d;
+    color: #ffffff;
+}
+
+.btn-dark1 {
+    background-color: #e51a32;
+    color: #ffffff;
 }
