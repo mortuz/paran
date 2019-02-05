@@ -18,7 +18,7 @@ img {
 }
 
 .active{
-    background-color: #e51a32;
+    background-color: #C00913;
     color: #ffffff;
 }
 
@@ -121,12 +121,12 @@ h2, h3, h4, p {
 }
 
 .btn-r{
-    background-color: #e51a32;
+    background-color: #C00913;
     color: #ffffff;
 }
 
 .check-r{
-    color: #e51a32;
+    color: #C00913;
 }
 
 ul {
@@ -159,6 +159,6 @@ a:hover{
 }
 
 .btn-dark1 {
-    background-color: #e51a32;
+    background-color: #C00913;
     color: #ffffff;
 }
