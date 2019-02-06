@@ -88,6 +88,11 @@ img {
         padding-top: 45px;
     }
 
+    .client1 {
+        max-width: 125px;
+        padding-top: 10px;
+    }
+
     /* .btn {
     padding-left: 100px;
     padding-right: 100px;
@@ -161,4 +166,14 @@ a:hover{
 .btn-dark1 {
     background-color: #C00913;
     color: #ffffff;
+}
+
+.client {
+    max-width: 125px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.client1 {
+    max-width: 125px;
 }
